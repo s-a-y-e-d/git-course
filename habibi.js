@@ -1,3 +1,3 @@
 console.log(56);
 console.log('Version 6');
-console.log('Feature 3');
+console.log('conflict 3');
